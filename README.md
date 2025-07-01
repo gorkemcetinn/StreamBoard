@@ -43,10 +43,23 @@ Bu proje **gerçek zamanlı veri işleme mimarisi** için Kafka ve Spark'ı birl
 - Apache Spark 3.x
 - Apache Kafka
 - pip paketleri:
-
+  
   ```bash
   pip install flask flask-cors kafka-python requests findspark
   ```
+---
+### 🛠 Apache Spark Kurulumu
+
+  Gerekli jar dosyalarını indirip sparkın kurulu olduğu dizindeki 'jars' klasörünün içine kopyalanır.
+
+  ```bash
+  spark-token-provider-kafka-0-10_2.12-3.3.0.jar
+  commons-pool2-2.11.1.jar
+  spark-streaming-kafka-0-10_2.12-3.3.0.jar
+  kafka-clients-3.2.0.jar
+  spark-sql-kafka-0-10_2.12-3.3.0.jar
+  ```
+    
 
 ---
 
