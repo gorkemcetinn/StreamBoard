@@ -64,6 +64,15 @@ Bu proje **gerçek zamanlı veri işleme mimarisi** için Kafka ve Spark'ı birl
 
 ### ▶️ Çalıştırma
 
+1. Docker üzerinden Kafka ve Zookeeper'ı başlat:
+```bash
+cd proje-dizini
+docker-compose -f docker-compose.yaml up -d
+```
+| docker-compose.yaml dosyası Kafka, Zookeeper ve Kafka UI (opsiyonel) içermelidir.
+
+2. Ana uygulamayı başlat:
+
 ```bash
 python main.py
 ```
@@ -101,3 +110,8 @@ python main.py
 https://github.com/user-attachments/assets/03ab6ccf-662e-47bb-a8c5-65878dfcf8a6
 
 
+🧩 Notlar
+
+Kafka UI arayüzüne http://localhost:8080 adresinden erişebilirsin.
+
+Spark, streaming query'leri terminalde gösterebilir.
