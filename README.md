@@ -43,6 +43,7 @@ Bu proje **gerçek zamanlı veri işleme mimarisi** için Kafka ve Spark'ı birl
 - Apache Spark 3.x
 - Apache Kafka
 - pip paketleri:
+
   ```bash
   pip install flask flask-cors kafka-python requests findspark
   ```
