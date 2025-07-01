@@ -112,7 +112,7 @@ python main.py
 https://github.com/user-attachments/assets/03ab6ccf-662e-47bb-a8c5-65878dfcf8a6
 
 
-🧩 ### Notlar
+### 🧩 Notlar
 
 Kafka UI arayüzüne http://localhost:8080 adresinden erişebilirsin.
 
