@@ -50,7 +50,7 @@ Bu proje **gerçek zamanlı veri işleme mimarisi** için Kafka ve Spark'ı birl
 ---
 ### 🛠 Apache Spark Kurulumu
 
-  Gerekli jar dosyalarını indirip sparkın kurulu olduğu dizindeki 'jars' klasörünün içine kopyalanır.
+  Gerekli jar dosyalarını indirip Apache Spark dosyasının kurulu olduğu dizindeki 'jars' klasörünün içine kopyalanır.
 
   ```bash
   spark-token-provider-kafka-0-10_2.12-3.3.0.jar
