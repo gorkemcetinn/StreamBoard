@@ -60,6 +60,7 @@ Bu proje **gerçek zamanlı veri işleme mimarisi** için Kafka ve Spark'ı birl
    - `randomuser_producer.py`
    - `spark_randomuser_stream.py`
    - `index.html`, `script.js`
+   - `docker-compose.yaml`
 
 ---
 
