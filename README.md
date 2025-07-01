@@ -94,14 +94,10 @@ python main.py
 
 ---
 
-### 💡 Geliştirme Fikirleri
-
-- [ ] Yaş ortalaması / yaş histogramı
-- [ ] Ülke bazlı kullanıcı sayısı (harita)
-- [ ] Docker ile çalıştırma
-- [ ] Kalıcı veri tabanı entegrasyonu (MongoDB, PostgreSQL)
-
----
-
 ### 📂 Örnek Ekran Görüntüsü
+
+
+
+https://github.com/user-attachments/assets/03ab6ccf-662e-47bb-a8c5-65878dfcf8a6
+
 
