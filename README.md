@@ -70,7 +70,7 @@ Bu proje **gerçek zamanlı veri işleme mimarisi** için Kafka ve Spark'ı birl
 cd proje-dizini
 docker-compose -f docker-compose.yaml up -d
 ```
-| docker-compose.yaml dosyası Kafka, Zookeeper ve Kafka UI (opsiyonel) içermelidir.
+> docker-compose.yaml dosyası Kafka, Zookeeper ve Kafka UI (opsiyonel) içermelidir.
 
 2. Ana uygulamayı başlat:
 
